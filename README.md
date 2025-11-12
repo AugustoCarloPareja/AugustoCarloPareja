@@ -111,7 +111,7 @@ I’ve worked across multiple domains — from backend APIs and AI pipelines to 
   <a href="https://www.linkedin.com/in/augustocarlopareja/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:augustocarlopareja@gmail.com">
+  <a href="mailto:augustopareja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/AugustoCarloPareja">
