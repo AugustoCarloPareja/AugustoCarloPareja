@@ -42,15 +42,15 @@ cloud_ops:  Azure · AWS · GCP · Docker · Terraform · GitHub Actions
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" />
-<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/master/profile-summary-card-output/github_dark/3-stats.svg" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 </div>
 
