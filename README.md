@@ -42,13 +42,24 @@ cloud_ops:  Azure · AWS · GCP · Docker · Terraform · GitHub Actions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AugustoCarloPareja&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCarloPareja&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,css&langs_count=8" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/tokyonight/3-stats.svg" />
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/output/snake.svg" alt="Contribution snake" />
+
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/profile-summary-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/output/snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AugustoCarloPareja/AugustoCarloPareja/output/snake.svg" />
+  </picture>
 </div>
 
 ---
