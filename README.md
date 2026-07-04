@@ -21,7 +21,6 @@ Lately, I spend more time wiring **LLMs and agents** into real production workfl
 - 🔭 **Now:** building agentic pipelines that reason over enterprise data
 - 🌱 **Learning:** evals, prompt-cache economics, observability for LLM apps
 - 🤝 **Open to:** collabs on AI + automation projects
-- ⚡ **Fun fact:** I prompt more than I loop these days
 
 ---
 
